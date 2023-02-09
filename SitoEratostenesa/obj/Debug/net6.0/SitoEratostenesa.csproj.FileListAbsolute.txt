@@ -1,0 +1,15 @@
+/Users/bartoszkrochmal/RiderProjects/SitoEratostenesa/SitoEratostenesa/bin/Debug/net6.0/SitoEratostenesa
+/Users/bartoszkrochmal/RiderProjects/SitoEratostenesa/SitoEratostenesa/bin/Debug/net6.0/SitoEratostenesa.deps.json
+/Users/bartoszkrochmal/RiderProjects/SitoEratostenesa/SitoEratostenesa/bin/Debug/net6.0/SitoEratostenesa.runtimeconfig.json
+/Users/bartoszkrochmal/RiderProjects/SitoEratostenesa/SitoEratostenesa/bin/Debug/net6.0/SitoEratostenesa.dll
+/Users/bartoszkrochmal/RiderProjects/SitoEratostenesa/SitoEratostenesa/bin/Debug/net6.0/SitoEratostenesa.pdb
+/Users/bartoszkrochmal/RiderProjects/SitoEratostenesa/SitoEratostenesa/obj/Debug/net6.0/SitoEratostenesa.csproj.AssemblyReference.cache
+/Users/bartoszkrochmal/RiderProjects/SitoEratostenesa/SitoEratostenesa/obj/Debug/net6.0/SitoEratostenesa.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bartoszkrochmal/RiderProjects/SitoEratostenesa/SitoEratostenesa/obj/Debug/net6.0/SitoEratostenesa.AssemblyInfoInputs.cache
+/Users/bartoszkrochmal/RiderProjects/SitoEratostenesa/SitoEratostenesa/obj/Debug/net6.0/SitoEratostenesa.AssemblyInfo.cs
+/Users/bartoszkrochmal/RiderProjects/SitoEratostenesa/SitoEratostenesa/obj/Debug/net6.0/SitoEratostenesa.csproj.CoreCompileInputs.cache
+/Users/bartoszkrochmal/RiderProjects/SitoEratostenesa/SitoEratostenesa/obj/Debug/net6.0/SitoEratostenesa.dll
+/Users/bartoszkrochmal/RiderProjects/SitoEratostenesa/SitoEratostenesa/obj/Debug/net6.0/refint/SitoEratostenesa.dll
+/Users/bartoszkrochmal/RiderProjects/SitoEratostenesa/SitoEratostenesa/obj/Debug/net6.0/SitoEratostenesa.pdb
+/Users/bartoszkrochmal/RiderProjects/SitoEratostenesa/SitoEratostenesa/obj/Debug/net6.0/SitoEratostenesa.genruntimeconfig.cache
+/Users/bartoszkrochmal/RiderProjects/SitoEratostenesa/SitoEratostenesa/obj/Debug/net6.0/ref/SitoEratostenesa.dll
